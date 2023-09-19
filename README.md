@@ -15,4 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="[https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/FaresSallam75/BmiCalculator/assets/115936044/2a5aa6d8-4efd-4ef0-bf5b-2c62b283c763 =250x250)https://github.com/FaresSallam75/BmiCalculator/assets/115936044/2a5aa6d8-4efd-4ef0-bf5b-2c62b283c763 =250x250" width="200" height="400" />
+<img src="[https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/FaresSallam75/BmiCalculator/assets/115936044/2a5aa6d8-4efd-4ef0-bf5b-2c62b283c763)https://github.com/FaresSallam75/BmiCalculator/assets/115936044/2a5aa6d8-4efd-4ef0-bf5b-2c62b283c763" width="200" height="400" />
+
+
